@@ -44,7 +44,6 @@ int main() {
         }
         return 0;
 }
-
 void DoMath() {
         M MathEngine; // Math Engine
         int Option;
